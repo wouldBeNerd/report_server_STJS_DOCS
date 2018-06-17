@@ -7,6 +7,8 @@
 
 [Index](#index)
 
+**Table Filtering fields have a throtteling field. Which means that your filter will only apply when you stop typing for a second.**
+
 ### date filtering
 
 `01012018..` find all dates from 01/01/2018 and onwards
@@ -33,110 +35,6 @@ string filtering is always case insensitive
 
 
 
-</p>
-</details>
-
-
-<details><summary>Training Department</summary>
-<p>
-
-
-
-</p>
-</details>
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
-
-
-
-* 1
-* 2
-* 3
-* 4
-* 5
 
 
 
@@ -146,5 +44,18 @@ string filtering is always case insensitive
 this is a
 
 hunk o text
+
+
+
+
+
+<details><summary>fold down example</summary>
+<p>
+
+* content here
+
+</p>
+</details>
+
 
 
