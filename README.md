@@ -1,7 +1,7 @@
 # STJS_readme
 STJS reporting site user manuel. 
 
-[Training Logs][# training logs]
+[Training Logs](#TrainingLogs)
 
 
 <details><summary>Table Filtering</summary>
@@ -73,6 +73,70 @@ string filtering is always case insensitive
 * 3
 * 4
 * 5
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
 
 
 # Training Logs
