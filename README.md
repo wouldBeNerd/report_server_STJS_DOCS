@@ -1,6 +1,3 @@
-# STJS_readme
-STJS reporting site user manuel. 
-
 ## Index
 
 * [Filtering Tables](#filtering-tables)
