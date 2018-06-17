@@ -1,10 +1,14 @@
 # STJS_readme
 STJS reporting site user manuel. 
 
-[Training Logs](#training-logs)
+## Index
 
+* [Filtering Tables](#filtering-tables)
+* [Training Logs](#training-logs)
 
-<details><summary>Table Filtering</summary>
+<details><summary>
+## Filtering Tables
+</summary>
 <p>
 
 ### date filtering
