@@ -1,7 +1,7 @@
 # STJS_readme
 STJS reporting site user manuel. 
 
-[Training Logs](#Training_Logs)
+[Training Logs](#Training-Logs)
 
 
 <details><summary>Table Filtering</summary>
