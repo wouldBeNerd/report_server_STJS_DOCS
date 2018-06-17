@@ -2,7 +2,7 @@
 STJS reporting site user manuel. 
 
 
-<details><summary>filtering</summary>
+<details><summary>Table Filtering</summary>
 <p>
 
 ### date filtering
@@ -28,6 +28,19 @@ string filtering is always case insensitive
 `ana|bo|steve` look for all occurences of 'bo' and 'ana' and 'steve'
 
 
+
+</p>
+</details>
+
+<details><summary>Training Department</summary>
+<p>
+
+  <details><summary>Training Log Keeper</summary>
+  <p>
+
+
+  </p>
+  </details>
 
 </p>
 </details>
