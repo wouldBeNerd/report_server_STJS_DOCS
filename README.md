@@ -39,11 +39,46 @@ string filtering is always case insensitive
 <details><summary>Training Department</summary>
 <p>
 
+
+
+</p>
+</details>
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
 # Training Logs
 
 this is a
 
 hunk o text
 
-</p>
-</details>
+
