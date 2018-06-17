@@ -1,6 +1,8 @@
 # STJS_readme
 STJS reporting site user manuel. 
 
+[Training Logs](# Training Logs)
+
 
 <details><summary>Table Filtering</summary>
 <p>
@@ -23,6 +25,7 @@ STJS reporting site user manuel.
 `<3` find all numbers smaller than or equal to 3
 
 ### string filtering
+
 string filtering is always case insensitive
 
 `ana|bo|steve` look for all occurences of 'bo' and 'ana' and 'steve'
@@ -32,15 +35,15 @@ string filtering is always case insensitive
 </p>
 </details>
 
+
 <details><summary>Training Department</summary>
 <p>
 
-  <details><summary>Training Log Keeper</summary>
-  <p>
+# Training Logs
 
+this is a
 
-  </p>
-  </details>
+hunk o text
 
 </p>
 </details>
