@@ -6,10 +6,9 @@ STJS reporting site user manuel.
 * [Filtering Tables](#filtering-tables)
 * [Training Logs](#training-logs)
 
-<details><summary>
 ## Filtering Tables
-</summary>
-<p>
+
+[Index](#index)
 
 ### date filtering
 
@@ -143,7 +142,8 @@ string filtering is always case insensitive
 
 
 
-# Training Logs
+## Training Logs
+[Index](#index)
 
 this is a
 
