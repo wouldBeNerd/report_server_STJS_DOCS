@@ -15,6 +15,7 @@
 
 `01012018..05012018` find all dates from 01/01/2018 until 05/01/2018
 
+![table_filtering_by_date.gif missing](./ASSETS/table_filtering_by_date.gif)
 
 ### number filtering
 
