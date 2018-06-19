@@ -1,11 +1,14 @@
 ## Index
 
+### Basic User Documentation
 * [Filtering Tables](#filtering-tables)
 * [Sorting Columns](#sorting-columns)
-* [Training Logs](training_logs.md)
 * [DropDownList Input](#dropdownlist-input)
 
-## Filtering Tables
+### Specific Report Documentation
+* [Training Logs](training_logs.md)
+
+### Filtering Tables
 
 * [Date Filtering](#date-filtering)
 * [Number Filtering](#number-filtering)
