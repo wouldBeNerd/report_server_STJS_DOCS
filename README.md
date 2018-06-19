@@ -1,7 +1,7 @@
 ## Index
 
 * [Filtering Tables](#filtering-tables)
-* [Training Logs](STJS_reports_docs/training_logs.md)
+* [Training Logs](https://github.com/wouldBeNerd/STJS_reports_docs/training_logs.md)
 
 ## Filtering Tables
 
