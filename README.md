@@ -73,23 +73,15 @@ Clicking on another column after that will undo the sorting by that column and e
 
 DropDownList Input can be used to look for existing values for the input field as well as create new ones if said option has been enabled for that particular field.
 
-<kbd>alt + down arrow</kbd>  open dropdown
-
-<kbd>alt + up arrow</kbd> close dropdown
-
-<kbd>down arrow</kbd> move focus to next item
-
-<kbd>up arrow</kbd> move focus to previous item
-
-<kbd>home</kbd> move focus to first item
-
-<kbd>end</kbd> move focus to last item
-
-<kbd>enter</kbd> select focused item
-
-<kbd>ctrl + enter</kbd> create new option from current searchTerm
-
-<kbd>any key</kbd> search list for item starting with key
+* **<kbd>ALT + DOWN arrow<kbd>** open dropdown
+* **<kbd>ALT + UP arrow<kbd>** close dropdown
+* **<kbd>DOWN arrow<kbd>** move focus to next item
+* **<kbd>UP arrow<kbd>** move focus to previous item
+* **<kbd>HOME<kbd>** move focus to first item
+* **<kbd>END<kbd>** move focus to last item
+* **<kbd>ENTER<kbd>** select focused item
+* **<kbd>CTRL + ENTER<kbd>** create new option from current searchTerm
+* **<kbd>ANY KEY<kbd>** search list for item starting with key
 
 ![dropdownlist_input.gif missing](./ASSETS/dropdownlist_input.gif)
 
