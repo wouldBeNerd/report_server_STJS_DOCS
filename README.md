@@ -1,7 +1,7 @@
 ## Index
 
 * [Filtering Tables](#filtering-tables)
-* [Training Logs](#training-logs)
+* [Training Logs](STJS_reports_docs/training_logs.md)
 
 ## Filtering Tables
 
