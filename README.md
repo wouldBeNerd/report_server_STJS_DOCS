@@ -18,11 +18,9 @@
 
 ### Date Filtering
 
-`01012018..` find all dates from 01/01/2018 and onwards
-
-`..01012018` find all dates before and until 01/01/2018
-
-`01012018..05012018` find all dates from 01/01/2018 until 05/01/2018
+* `01012018..` find all dates from 01/01/2018 and onwards
+* `..01012018` find all dates before and until 01/01/2018
+* `01012018..05012018` find all dates from 01/01/2018 until 05/01/2018
 
 ![table_filtering_by_date.gif missing](./ASSETS/table_filtering_by_date.gif)
 
@@ -30,13 +28,10 @@
 
 ### Number Filtering
 
-`1..3` include all numbers between 1 and 3
-
-`>3` or `3..` find all numbers bigger than or equal to 3
-
-`<3` or `..3` find all numbers smaller than or equal to 3
-
-`0` will filter out empty or 0 values
+* `1..3` include all numbers between 1 and 3
+* `>3` or `3..` find all numbers bigger than or equal to 3
+* `<3` or `..3` find all numbers smaller than or equal to 3
+* `0` will filter out empty or 0 values
 
 ![table_filtering_by_number.gif missing](./ASSETS/table_filtering_by_number.gif)
 
@@ -46,15 +41,11 @@
 
 string filtering is always case insensitive
 
-`ana` find all matches containing this combination of letters (case insensitive)
-
-`ana|bo|steve` look for all occurrences of 'bo' and 'ana' and 'steve' (case insensitive)
-
-`@Bo Bettens` look for this exact match (case SENSITIVE)
-
-`@Ana & Bo|Bo Bettens` look for all occurrences of these exact matches (case SENSITIVE)
-
-` ` enter a 'space' character to filter out all empty values
+* `ana` find all matches containing this combination of letters (case insensitive)
+* `ana|bo|steve` look for all occurrences of 'bo' and 'ana' and 'steve' (case insensitive)
+* `@Bo Bettens` look for this exact match (case SENSITIVE)
+* `@Ana & Bo|Bo Bettens` look for all occurrences of these exact matches (case SENSITIVE)
+* ` ` enter a space (' ') character to filter out all empty values
 
 ![table_filtering_by_string.gif missing](./ASSETS/table_filtering_by_string.gif)
 
